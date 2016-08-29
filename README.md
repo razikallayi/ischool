@@ -1,1 +1,2 @@
 # ischool
+School Management Application
